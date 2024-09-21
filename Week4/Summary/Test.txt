@@ -1,0 +1,6 @@
+Input : < input_number >
+Output :
+<n> x 1 = < product_1 >
+<n> x 2 = < product_2 >
+...
+<n> x 10 = < product_10 >
