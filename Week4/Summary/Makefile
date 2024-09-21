@@ -1,13 +1,13 @@
 # Variables
 CXX = g++
 CXXFLAGS = -Wall
-TARGET = fibonacci
-SRC = fibonacci.cpp
+TARGET = SumWeek4Praktikum
+SRC = SumWeek4Praktikum.cpp
 
 # Default target: compile the program
 all: $(TARGET)
 
-# Compile the fibonacci.cpp
+# Compile the SumWeek4Praktikum.cpp
 $(TARGET): $(SRC)
 	$(CXX) $(CXXFLAGS) -o $(TARGET) $(SRC)
 
