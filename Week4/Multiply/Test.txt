@@ -1,7 +1,6 @@
-Input : 4
+Input : Enter an integer: < input_number >
 Output :
-4 x 1 = 4
-4 x 2 = 8
-4 x 3 = 12
+<n > x 1 = < product_1 >
+<n > x 2 = < product_2 >
 ...
-4 x 10 = 40
+<n > x 10 = < product_10 >
