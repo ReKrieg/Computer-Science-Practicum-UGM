@@ -1,0 +1,2 @@
+Input : Enter an three numbers: < input_number > < input_number > < input_number >
+Output : The highest number is: < Expected_highest_number >
