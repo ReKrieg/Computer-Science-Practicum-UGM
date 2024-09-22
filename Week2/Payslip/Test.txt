@@ -1,0 +1,16 @@
+Input : 
+Enter Employee Name: < Nickname >
+Enter Gross Salary: < input_number >
+Enter tax percentage: < input_number >
+Enter installment cost: < input_number >
+Enter insurance cost: < input_number > 
+
+Output :
+Payslip for Employee
+-----------------------
+Name: < Nickname >
+Gross Salary: Rp. < Expected_number >
+Tax (20%): Rp. < Expected_number >
+Installment: Rp. < Expected_number >
+Insurance: Rp. < Expected_number >
+Nett Salary: Rp. < Expected_number >
