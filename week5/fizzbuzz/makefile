@@ -2,12 +2,12 @@
 
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall
-TARGET = fizzbuzz
+TARGET = Fizzbuzz
 
 all: $(TARGET)
 
 $(TARGET): main.cpp
-	$(CXX) $(CXXFLAGS) -o $(TARGET) main.cpp
+	$(CXX) $(CXXFLAGS) -o $(TARGET) Fizzbuzz.cpp
 
 run: $(TARGET)
 	./$(TARGET)
