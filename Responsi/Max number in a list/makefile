@@ -5,8 +5,8 @@ CXX = g++
 CXXFLAGS = -Wall -std=c++11
 
 # Define the source file and the output executable
-SRC = Assignment7.cpp
-TARGET = Assignment7
+SRC = Responsi1.cpp
+TARGET = Responsi1
 
 # Default rule to build the executable
 all: $(TARGET)
