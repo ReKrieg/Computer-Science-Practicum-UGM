@@ -1,0 +1,8 @@
+How many numbers do you want to enter? 5
+Enter the numbers:
+10
+2
+5
+9
+15
+The max number from the amount of numbers is: 15
