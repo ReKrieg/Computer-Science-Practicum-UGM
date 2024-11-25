@@ -1,0 +1,3 @@
+Input a non-negative number!
+5
+The factorial of 5 is 120.
